@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **passionate Computer Science student** with a strong focus on **Full-Stack Development**, **Machine Learning**, and **AI**. Currently pursuing B.Tech in Computer Science with a minor in Adaptive AI at Nirma University (CGPA: **9.25/10**).
+I'm a **passionate Computer Science student** with a strong focus on **Full-Stack Development**, **Machine Learning**, and **AI**. Currently pursuing B.Tech in Computer Science with a minor in Adaptive AI at Nirma University (CGPA: **9.21/10**).
 
 I love building intelligent systems that solve real-world problems — from AI-powered platforms to computer vision applications.
 
